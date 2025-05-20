@@ -75,8 +75,6 @@ The analysis produces:
 
 ## License
 
-[Your chosen license]
 
 ## Contributing
 
-[Your contribution guidelines] 
