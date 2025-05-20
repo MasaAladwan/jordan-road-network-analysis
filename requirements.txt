@@ -1,0 +1,13 @@
+osmnx==2.0.3
+networkx==3.4.2
+pandas==2.2.3
+matplotlib==3.10.3
+geopandas==1.0.1
+numpy>=1.22
+requests>=2.27
+shapely>=2.0
+python-dateutil>=2.8.2
+pytz>=2020.1
+tzdata>=2022.7
+jupyter>=1.0.0
+notebook>=7.0.0 
