@@ -1,6 +1,6 @@
 # Jordan Road Network Analysis
 
-This project was done with [@Sara](https://github.com/Sa2002rah) to analyze Jordan’s road network using Social Network Analysis (SNA) techniques to identify important intersections and understand traffic flow patterns. 
+This project was done with [Sara](https://github.com/Sa2002rah) to analyze Jordan’s road network using Social Network Analysis (SNA) techniques to identify important intersections and understand traffic flow patterns. 
 ## Project Overview
 
 The analysis focuses on:
